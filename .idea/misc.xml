@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../Library/Android/sdk/platforms/android-32/data/res/drawable/btn_default.xml" value="0.1" />
+        <entry key="app/src/main/java/com/example/animatedlike/AnimatedLike.kt" value="0.18981481481481483" />
+        <entry key="app/src/main/java/com/example/likeanim/AnimatedLike.kt" value="0.2326858108108108" />
+        <entry key="app/src/main/java/com/example/likeanim/MainActivity.kt" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
